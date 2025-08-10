@@ -2,6 +2,8 @@
 
 A small desktop UI to log into DUPR, fetch a club's members and match history, export a neat Excel report, and analyze/simulate rating changes with a simple, data‑fitted (Elo‑like) formula.
 
+<img width="2500" height="1500" alt="image" src="https://github.com/user-attachments/assets/93527243-dfd4-45b8-9e9a-a90f843b104e" />
+
 ## What you get
 - Login (email/password) or “Login as Guest”
 - Crawl a club by Club ID with limits
@@ -19,7 +21,7 @@ A small desktop UI to log into DUPR, fetch a club's members and match history, e
 
 ### 1) Clone this repository
 ```bash
-git clone <your_repo_url> Tool_Crawl_SportPlus
+git clone https://github.com/Senju14/tool-crawl-dupr-data.git Tool_Crawl_SportPlus 
 cd Tool_Crawl_SportPlus
 ```
 
