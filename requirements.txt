@@ -1,0 +1,10 @@
+flet
+pandas
+openpyxl
+requests
+python-dotenv
+loguru
+matplotlib
+sympy
+Pillow
+
