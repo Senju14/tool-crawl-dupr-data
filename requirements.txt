@@ -1,5 +1,6 @@
 flet
 pandas
+numpy
 openpyxl
 requests
 python-dotenv
@@ -7,4 +8,5 @@ loguru
 matplotlib
 sympy
 Pillow
-
+SQLAlchemy
+click
